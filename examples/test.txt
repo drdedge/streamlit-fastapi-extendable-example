@@ -1,0 +1,11 @@
+This is a test file for the document processing service.
+
+It contains some sample text that will be converted to a DOCX file with metadata.
+
+The service should:
+1. Accept this text file
+2. Extract its content
+3. Create a formatted Word document
+4. Add metadata about the processing
+
+This is the end of the test file.

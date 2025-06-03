@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx
+pydantic
+pydantic-settings
+aiofiles
+streamlit
+requests
+python-dotenv
