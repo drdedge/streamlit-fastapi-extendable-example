@@ -104,7 +104,4 @@ API_HOST=0.0.0.0
 API_PORT=8000
 MAX_FILE_SIZE_MB=10
 ```
-
-## License
-
-MIT License - feel free to use this template for your projects!
+Updatred 2025-06-11
